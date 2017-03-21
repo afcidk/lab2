@@ -1,4 +1,5 @@
 #ifndef _a_h_
+#define _a_h_
 #include "a.h"
 #include<cmath>
 
